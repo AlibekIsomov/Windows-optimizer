@@ -9,9 +9,9 @@ This is a collection of safe tweaks, service disables, and performance hacks to 
 - Optional debloating + registry tweaks
 
 ## 📂 Files
-- `optimize.ps1` - Main script (run as admin)
-- `disable-services-list.txt` - Services to kill
-- `registry-tweaks.reg` - Performance reg edits
+- `Optimizer.exe` - Exe File to run (run as admin)
+- `Optimizer.bat` - Bat File to run (run as admin)
+- `Optimizer.ps1` - PowerShell File to run (run as admin)
 
 ## 🛠 Usage
 1. Clone this repo:
