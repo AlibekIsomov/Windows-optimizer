@@ -16,4 +16,4 @@ This is a collection of safe tweaks, service disables, and performance hacks to 
 ## 🛠 Usage
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/win11-gaming-optimizer
+   git clone https://github.com/AlibekIsomov/Windows-optimizer
